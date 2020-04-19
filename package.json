@@ -1,0 +1,30 @@
+{
+  "name": "json-parser",
+  "version": "0.1.0",
+  "description": "a parser for the JSON language",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benrkia/json-parser.git"
+  },
+  "keywords": [
+    "json",
+    "parser",
+    "ast"
+  ],
+  "author": "ILYASSE BENRKIA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benrkia/json-parser/issues"
+  },
+  "homepage": "https://github.com/benrkia/json-parser#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
