@@ -1,2 +1,8 @@
-node_modules/
-d/
+*.Makefile
+*.a
+*.exe
+*.idb
+*.lib
+*.log
+.cache
+.vscode
